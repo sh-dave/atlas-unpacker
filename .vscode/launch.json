@@ -9,7 +9,7 @@
             "request": "launch",
             "name": "Launch Program",
             "program": "${workspaceFolder}/bin/nodejs/atlas-unpacker.js",
-            "args": ["testdata/player/player.atlas"],
+            "args": ["testdata/man_at_arms.combat/man_at_arms.sprite.combat.atlas"],
             "skipFiles": [
                 "<node_internals>/**"
             ],

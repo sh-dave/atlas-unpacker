@@ -1,5 +1,17 @@
 {
-  "devDependencies": {
+  "name": "@sh-dave/atlas-unpacker",
+  "version": "0.0.3",
+  "bin": "bin/nodejs/atlas-unpacker.js",
+  "scripts": {
+    "postinstall": "lix download"
+  },
+  "dependencies": {
     "lix": "^15.6.0-alpha.4"
+  },
+  "description": "texture-atlas image unpacker",
+  "keywords": ["texture-atlas", "unpacker", "libgdx"],
+  "license": "zlib",
+  "repository": {
+    "url": "https://github.com/sh-dave/atlas-unpacker"
   }
 }
