@@ -1,0 +1,3 @@
+# @install: lix --silent download "gh://github.com/nadako/hxspine#7e11c16f9d54e974fef3b87a293d6ae34b50b798" into hxspine/0.0.1/github/7e11c16f9d54e974fef3b87a293d6ae34b50b798
+-cp ${HAXE_LIBCACHE}/hxspine/0.0.1/github/7e11c16f9d54e974fef3b87a293d6ae34b50b798/src
+-D hxspine=0.0.1

@@ -1,0 +1,9 @@
+-lib format
+-lib hxnodejs
+-lib hxspine
+-lib tink_cli
+-cp src
+
+-main Main
+-js bin/nodejs/atlas-unpacker.js
+-debug
